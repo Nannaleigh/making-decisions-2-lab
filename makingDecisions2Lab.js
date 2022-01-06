@@ -16,7 +16,8 @@ let firstItem = arr[0]
   variable named 'lastItemRemoved'. Console.log the array to verify you no longer have the last item.
 */
 
-
+let lastItemRemoved = arr.pop()
+console.log(arr)
 
 ////////// PROBLEM 3 //////////
 
